@@ -1,3 +1,4 @@
+# REST API
 ***Conceptos Básicos
 *TCP/IP: Transfer control protocol/Internet Protocol. Este modelo es un protocolo para comunicación en redes que permite que un equipo pueda comunicarse dentro de una red.
 *API: Application Programming Interface. Es un conjunto de reglas (código) y especificaciones que las aplicaciones pueden seguir para comunicarse entre ellas.
