@@ -56,7 +56,7 @@ app.get('/cats/:id', function(req, res){
 // Levantamos el servidor con el método listen
 app.listen(port, function(error){
     if(!error) {
-        console.info('Server on port 3000')
+        console.info(`Server on port ${port}`)
     } else {
         console.info(error)
     }
