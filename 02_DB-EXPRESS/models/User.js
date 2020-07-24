@@ -13,7 +13,11 @@ const userSchema = new mongoose.Schema({
         type: Number
     },
     color: String,
-    phone: Number
+    phone: Number,
+    is_active: {
+        type: Boolean,
+        default: true
+    }
 })
 
 // Primer parametro de model: Nombre

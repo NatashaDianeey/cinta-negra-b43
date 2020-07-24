@@ -1,5 +1,4 @@
 # BASE DE DATOS
-==========================
 
 Conjunto de datos organizados y relacionado entre sí. Se guardan datos que despues vamos a utilizar
 
@@ -54,4 +53,3 @@ Pasos para MongoDB
 15. Remplazar <pasword> por la contraseña que elegi en el paso 2
 16. Remplazar <dbname> por la contraseña que elegi en el paso 5 
 17. Crear nuestros modelos en la carpeta con el mismo nombre
-18. 
